@@ -1,0 +1,16 @@
+{
+  "name": "stagin-cross-promotion",
+  "private": true,
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@shopify/ui-extensions": "2024.4.x",
+    "@shopify/ui-extensions-react": "2024.4.x",
+    "axios": "^1.7.2",
+    "react": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "react-reconciler": "0.29.0"
+  }
+}
